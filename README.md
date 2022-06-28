@@ -17,3 +17,8 @@ edit: that didnt work so I decided to make all the available characters strings 
 in the end my app dosent run correctly. Im sure Im very very close to a finished product. I will have to tweek it little by little.
 
 ![image of password generator](<./assets/photos/Screen%20Shot%202022-06-27%20at%208.32.44%20PM%20(2).png>)
+
+# links
+
+https://github.com/Ajimoto/password-generator
+https://ajimoto.github.io/password-generator/
